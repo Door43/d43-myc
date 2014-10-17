@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[myc:home|Door43 (myc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-myc|d43-myc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-myc/archive/master.zip|d43-myc.zip]]
+
+**Recent Changes**
+{{changes>ns = myc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/myc|Ethnologue data]]
+
